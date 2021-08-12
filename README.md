@@ -1,3 +1,4 @@
+![Screen Shot 2021-08-11 at 11 47 18 PM](https://user-images.githubusercontent.com/80420919/129130730-dce5f861-f73b-401b-9dd7-f6fd0605f212.png)
 # Cleaning US Census Data:
 
 **This project is part of the nanodegree course "Data Science" offered by Codecademy (www.codecademy.com)**
